@@ -1,5 +1,7 @@
 package com.saumya.restaurant;
 
+
+
 public class Menu {
 	
 	private String breakfast = "breakfast menu";
