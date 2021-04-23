@@ -27,6 +27,6 @@ git clone https://github.com/saumyashah7/Restaurant-Menu.git
 
 Once project is built without errors, run the project using Apache Tomcat server which is recently moved from project repository.
 
-*Right click on menuselection.jsp under WebContent -> Run As -> Run on Server -> Manually define a new server -> Tomcat v8.5 Server -> Next -> [Pathe of Apache folder in downloaded repository for "Tomcat installation directory"] -> Finish*
+*Right click on menuselection.jsp under WebContent -> Run As -> Run on Server -> Manually define a new server -> Tomcat v8.5 Server -> Next -> [Path of Apache folder for "Tomcat installation directory"] -> Finish*
 
 If there are no errors, access the page in you browser using: http://localhost:8080/Restaurant/menuselection.jsp
