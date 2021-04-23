@@ -17,7 +17,7 @@ git clone https://github.com/saumyashah7/Restaurant-Menu.git
 3. #### Once project is imported, add JRE and servlet jar if they are missing in libraries. Ensure that jdk-13.0.1 is installed before that ####
 *Right click on the project name(Restaurant) in Package Explorer -> Build Path -> Configure Build Path -> Libraries -> Add Library... -> JRE System Library -> Next -> Workspace default JRE(or the jdk of your choice) -> Finish -> Add External JARs... -> [Path of servelet .jar file from the downloaded repository of this project under the folder name javax.servlet.jar] -> Open -> Apply and close*
 
-4. ####Move apache folder from the downloaded repository to the different directory before buiilding the project.####
+4. #### Move apache folder from the downloaded repository to the different directory before buiilding the project. ####
 
 5. #### Clean and Build project ####
 * Project Menu -> Clean... -> Check "Restaurant" -> Clean*
