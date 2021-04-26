@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form method="post" action="menucontroller">
+<form method="post" action="MenuController">
 <center> <h1> Select the Menu</h1></center>
 
 <h4>Breakfast:</h4> BreakfastMenu
