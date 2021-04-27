@@ -11,9 +11,9 @@
 
 <h4>Add Comment</h4> 
 
-<input type="text" name="title" value="Add title"><br/>
-<input type="text" name="description" value="Add description here...">
-<br/><br/>
+<input type="text" name="title" placeholder="Title"><br/>
+<textarea name="description" placeholder="Description here..."></textarea>
+<br/><br/>	
 <input type ="submit" value = "Add Comment">
 
 </form>

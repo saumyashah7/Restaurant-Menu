@@ -10,6 +10,6 @@
 <h2>Breakfast: </h2> ${mn.getBreakfast()}<br/>
 <h2>Lunch: </h2> ${mn.getLunch()}<br/>
 <h2>Dinner: </h2> ${mn.getDinner()}<br/>
-
+<button class = "btn btn-primary" onclick="window.location.href = 'menuselection.jsp'">Back</button>
 </body>
 </html>

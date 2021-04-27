@@ -22,6 +22,7 @@
 <input type="radio" name = "Dinner" value="Dinner Menu">Dinner Menu<br/>
 <br/><br/>
 <input type ="submit" value = "Set Menu">
+<input type="button" value="Add Comment" onclick="JavaScript:window.location='commentform.jsp';">
 
 
 
